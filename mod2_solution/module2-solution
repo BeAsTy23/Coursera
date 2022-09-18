@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Assignment Solution for Module 2</title>
+<link rel="stylesheet" href="styles.css">
+</head>
 
+
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      
+    <h1 class="titleone">Our Menu</h1>
+
+   
+    <div class="col-lg-4">
+      <div class="item">
+      <div class="subtitle" id="subtitleone">
+
+      <h3>Chicken</h3>
+
+      </div>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at placerat libero. Curabitur vestibulum sagittis mi. Sed vel viverra purus. Proin ipsum augue, efficitur non tincidunt sit amet, condimentum eget ante. Sed elementum convallis ultricies. Suspendisse quis erat justo. Etiam vehicula ligula non risus lacinia lobortis. Vestibulum sit amet lacinia ante. Nunc placerat mattis ex, id lacinia lorem pharetra a.
+      </p>
+    </div>
+  </div>
+
+
+  <div class="col-lg-4">
+    <div class="item">
+    <div class="subtitle" id="subtitletwo">
+
+
+    <h3>Beef</h3>
+
+    </div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at placerat libero. Curabitur vestibulum sagittis mi. Sed vel viverra purus. Proin ipsum augue, efficitur non tincidunt sit amet, condimentum eget ante. Sed elementum convallis ultricies. Suspendisse quis erat justo. Etiam vehicula ligula non risus lacinia lobortis. Vestibulum sit amet lacinia ante. Nunc placerat mattis ex, id lacinia lorem pharetra a.
+</p>
+</div>
+</div>
+
+<div class="col-lg-4 col-lg-tablet">
+   <div class="item">
+      <div class="subtitle" id="subtitlethree">
+
+    <h3>Sushi</h3>
+    </div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at placerat libero. Curabitur vestibulum sagittis mi. Sed vel viverra purus. Proin ipsum augue, efficitur non tincidunt sit amet, condimentum eget ante. Sed elementum convallis ultricies. Suspendisse quis erat justo. Etiam vehicula ligula non risus lacinia lobortis. Vestibulum sit amet lacinia ante. Nunc placerat mattis ex, id lacinia lorem pharetra a.
+ </p>
+ </div>
+ </div>
+ </div>
+</div>
+   
+    </body>
+</html>
